@@ -16,5 +16,6 @@
       elsif "Hi"= "Huh?! Speak up, Sonny".upcase
       puts "What did you eat today?".upcase
       elsif "What did you eat today?".upcase = "No, Not since 1938".upcase
-      puts "What!".upcase
+      puts "What!?".upcase
+      
       
