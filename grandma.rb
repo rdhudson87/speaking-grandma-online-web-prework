@@ -14,4 +14,5 @@
     if "I love you grandma".upcase = "Huh?! Speak up, Sonny".upcase
       puts "Hi nana, how are you"
       elsif "Hi"= "Huh?! Speak up, Sonny".upcase
-      puts "What did you eat today".upcase
+      puts "What did you eat today?".upcase
+      elsif 
