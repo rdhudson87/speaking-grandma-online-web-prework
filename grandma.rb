@@ -13,4 +13,5 @@
  "I love you grandma".upcase = "I Love you too pumpkin".upcase
     if "I love you grandma".upcase = "Huh?! Speak up, Sonny".upcase
       puts "Hi nana, how are you"
-      elsif "Hi""Huh?! Speak up, Sonny".
+      elsif "Hi"= "Huh?! Speak up, Sonny".upcase
+      puts ""
